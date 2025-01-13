@@ -1,4 +1,3 @@
-# gorest-levi9-internship
 # GoRestL9 - QA Practice Project
 
 This project was developed during a QA internship at Levi9. It demonstrates testing practices for a REST API using C#. The GoRest API is used for managing user data, with tests focusing on user creation, retrieval, updating, and deletion.
